@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#numberbox {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#print {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
